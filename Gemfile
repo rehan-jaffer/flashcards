@@ -7,11 +7,11 @@ end
 
 gem 'simple_form'
 gem 'twitter-bootstrap-rails'
-gem 'shoulda_matchers'
 
 group :test do
   gem 'rspec-rails'
   gem 'mutant-rspec'
+  gem 'shoulda-matchers'
 end
 
 gem 'rspec-rails'
