@@ -12,6 +12,7 @@ group :test do
   gem 'rspec-rails'
   gem 'mutant-rspec'
   gem 'shoulda-matchers'
+  gem 'simplecov'
 end
 
 gem 'rspec-rails'
