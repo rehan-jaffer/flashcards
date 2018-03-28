@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+deck = Deck.create(name: "French Words")
+Card.create(front: "je", back: "i", card_type: "simple")
+Card.create(front: "nous", back: "we", card_type: "simple")
+Card.create(front: "vous", back: "you (plural)", card_type: "simple")
