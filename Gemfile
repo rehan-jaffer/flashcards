@@ -7,6 +7,7 @@ end
 
 gem 'simple_form'
 gem 'twitter-bootstrap-rails'
+gem 'webpacker'
 
 group :test do
   gem 'rspec-rails'
